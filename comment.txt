@@ -1,0 +1,7 @@
+This repo need for eltex school task presentation.
+
+Task number 1 here.
+
+~ 1. Need to output bytes from which int number consist in hex format
+~ 2. Need to change 3th byte in the int number, and output result
+~ Condition: Don't have to use assigment operation
